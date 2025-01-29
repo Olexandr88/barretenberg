@@ -3,7 +3,7 @@
 
 #include <cstdint>
 
-#include "barretenberg/vm2/constraining/testing/check_relation.hpp"
+#include "barretenberg/vm2/constraining/testin g/check_relation.hpp"
 #include "barretenberg/vm2/generated/flavor_settings.hpp"
 #include "barretenberg/vm2/generated/relations/alu.hpp"
 #include "barretenberg/vm2/testing/macros.hpp"
